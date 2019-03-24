@@ -5,5 +5,6 @@ public class Apple {
 		System.out.println("TESTGIT2");
 		System.out.println("TESTGIT");
 		System.out.println("HOTFIX");
+		System.out.println("HOTFIX2");
 	}
 }
