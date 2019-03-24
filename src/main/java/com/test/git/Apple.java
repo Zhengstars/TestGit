@@ -7,4 +7,7 @@ public class Apple {
 		System.out.println("HOTFIX");
 		System.out.println("HOTFIX3");
 	}
+	public void save(){
+		System.out.println(11);
+	}
 }
